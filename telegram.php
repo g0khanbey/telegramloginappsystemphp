@@ -88,7 +88,7 @@ $timeLeftFormatted = gmdate("H:i:s", $timeLeft);
 
 
     
-    <script src="site sahibi @mbarisoz telegram adresi ona yazın"></script>
+    <script src="site sahibi @ telegram adresi ona yazın"></script>
 <!-- Yandex.RTB -->
 <script>window.yaContextCb=window.yaContextCb||[]</script>
 <script src="https://yandex.ru/ads/system/context.js" async></script>
